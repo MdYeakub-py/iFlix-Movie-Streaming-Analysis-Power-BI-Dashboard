@@ -51,25 +51,25 @@ The project leverages five datasets:
 
 ### 🔹User Segmentation:
 
-🔹Casual users dominate overall, but Addicts contribute higher watch time in Malaysia.
+        🔹Casual users dominate overall, but Addicts contribute higher watch time in Malaysia.
 
 ### 🔹Content Performance:
 
-🔹Drama and Comedy lead in total minutes viewed.
+        🔹Drama and Comedy lead in total minutes viewed.
 
-🔹Shorter runtimes achieve higher completion %.
+        🔹Shorter runtimes achieve higher completion %.
 
 ### 🔹Platform Preferences:
 
-🔹Android and Android TV are the most popular streaming platforms.
+        🔹Android and Android TV are the most popular streaming platforms.
 
 ### 🔹Geographic Distribution:
 
-🔹Indonesia, Philippines, and Malaysia lead by total engagement.
+        🔹Indonesia, Philippines, and Malaysia lead by total engagement.
 
 ### 🔹Professionalism Indicators:
 
-🔹Drill-through by User_id and Asset_id enhances deep-dive analysis.
+        🔹Drill-through by User_id and Asset_id enhances deep-dive analysis.
 
 
 ## 🛠️ Tools & Technologies
