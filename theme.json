@@ -1,0 +1,28 @@
+{
+  "name": "Modern Stream Palette",
+  "dataColors": ["#1F77B4","#FF7F0E","#2CA02C","#D62728","#9467BD","#8C564B","#E377C2","#7F7F7F"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#1F77B4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "general": [
+          {
+            "responsive": true
+          }
+        ],
+        "title": [
+          {
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#2B2B2B"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
