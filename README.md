@@ -37,10 +37,10 @@ The project leverages five datasets:
 ### Page 1 – Executive Overview  
 ![Executive Overview](/image/page-1.jpg)  
 
-### Page 2 – Content Insights  
+### Page 2 – Geographic Insights 
 ![Content Insights](/image/page-2.jpg)  
 
-### Page 3 – Geographic Insights  
+### Page 3 – Content Insights  
 ![Geographic Insights](/image/page-3.jpg)  
 
 ### Page 4 – User Segments & Psychographics  
