@@ -102,6 +102,8 @@ The project leverages five datasets:
  ┃ ┗ iFlix_PowerBI_Report.pbix
  ┃ ┗ iFlix Movie Streaming Analysis.pdf
  ┗ README.md
+```
+
 
 ## 🙋‍♂️ About Me
 
