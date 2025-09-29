@@ -91,6 +91,7 @@ The project leverages five datasets:
 
 ##  🚀 Future Improvements
 
+```text
 📂 iFlix-Movie-Streaming-Analysis
  ┣ 📂 Data
  ┃ ┣ users.csv
