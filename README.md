@@ -109,6 +109,8 @@ The project leverages five datasets:
 
 I'm passionate about data, product thinking, and solving real-world problems with business intelligence. If you're interested in collaborating or want to discuss the dashboard, feel free to connect!
 
+💼 https://mdyeakub-py.github.io/Personal_Portfolio-/
+
 🔗 https://www.linkedin.com/in/mdyeakub35/
 
 📧 mdyeakub.cse@gmail.com
